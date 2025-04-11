@@ -1,13 +1,43 @@
 ---
-title: "Welcome to Doks"
-description: ""
-lead: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
-draft: false
-seo:
-  title: "Welcome to Doks" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+title: "Optimize College Tennis Schedules with Data"
+description: "Smarter match scheduling using linear optimization and ITA ranking logic."
 ---
+
+College tennis coaches face growing challenges when building match schedules:
+
+- ❌ Power 4 schools are locking into conference play earlier  
+- 💸 Rising travel costs and limited windows reduce flexibility  
+- 📊 ITA ranking rules pressure coaches to avoid risky matchups
+
+🎾 I built a solution using **linear optimization** to help coaches:
+
+- Maximize ranked home matches
+- Stay within travel and climate constraints
+- Get fair matchups based on ranking tiers
+
+---
+
+## 🚀 What This Project Covers
+
+- 🎯 [The Problem](/problem/): Why scheduling is broken
+- 🧠 [The Solution](/solution/): How optimization can fix it
+- 🧪 [Live Demo](/demo/): Example match recommendations
+- 👨‍💻 [About Me](/about/): Who I am
+
+---
+
+## 🎥 Project Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## 🤝 Looking to Collaborate
+
+I’m currently seeking access to **Palantir Foundry** to build this out using real NCAA match data, ranking logic, and dashboard tooling.
+
+If you’re interested in supporting or collaborating on this work:
+
+👉 [See the problem](/problem) //
+👉 [Email me](mailto:sebastianbuxman10@gmail.com)  
+👉 [Connect on LinkedIn](https://linkedin.com/in/sebastianbuxman)
