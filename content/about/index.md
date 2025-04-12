@@ -9,7 +9,7 @@ I'm **Sebastian Buxman**, a Division I tennis player and computer science gradua
 
 I built this project to combine my experience competing in the NCAA with my technical background in optimization, software, and analytics.
 
-- 🧠 Master’s in Computer Science  
+- 🧠 Master’s in Computer Science
 - 🎾 Top-20 All-Time Singles Wins @ Weber State  
 - 🌍 Based in South Africa & California  
 - 🛠️ Developer at [LESIMULATTE](https://lesimulatte.com)
@@ -28,8 +28,8 @@ This idea started when I saw how hard it was for mid-major teams to get fair mat
 
 ### Let’s Connect
 
-- 📧 [sebastian.buxman@email.com](mailto:sbuxman@scu.edu)
+- 📧 [sbuxman@scu.com](mailto:sbuxman@scu.edu)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastianbuxman)
-- 📝 [My Résumé](#)
+- 📝 [My Résumé](https://sebastianbuxman.com)
 
 I’m currently seeking access to **Palantir’s tech stack** to scale this project. If you’re reading this — let’s build something impactful together.

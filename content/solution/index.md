@@ -104,11 +104,6 @@ Here are sample matchups with expected ranking value outputs based on the model:
 | Home/Away Split       | Balanced number of home vs away matches                      |
 | Fairness Rules        | Conference-specific (e.g. WCC no shared travel partners)     |
 
----
-
-### 🧠 Optimization Workflow
-
-<img src="../../images/workflow.png" alt="Optimization Flowchart" style="max-width: 100%; margin-top: 2rem;"/>
 
 ---
 
@@ -120,7 +115,7 @@ This model is designed to plug into a full decision intelligence platform like *
 - Model dynamic travel costs with geospatial tools
 - Visualize optimized schedules in coach dashboards
 - Simulate different scenarios (e.g. early conference start, weather alerts)
-
+- Once the filters have been finalized produce a tentative schedule that coaches can then use to start making their schedules for the next season.
 ---
 
 

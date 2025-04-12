@@ -5,6 +5,7 @@
       "html",
       "link",
       "meta",
+      "script",
       "title"
     ],
     "classes": null,
