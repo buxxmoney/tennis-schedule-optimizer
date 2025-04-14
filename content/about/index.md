@@ -31,5 +31,3 @@ This idea started when I saw how hard it was for mid-major teams to get fair mat
 - 📧 [sbuxman@scu.com](mailto:sbuxman@scu.edu)
 - 🔗 [LinkedIn](https://linkedin.com/in/sebastianbuxman)
 - 📝 [My Résumé](https://sebastianbuxman.com)
-
-I’m currently seeking access to **Palantir’s tech stack** to scale this project. If you’re reading this — let’s build something impactful together.
