@@ -107,15 +107,4 @@ Here are sample matchups with expected ranking value outputs based on the model:
 
 ---
 
-## 🔍 Future Integration with Palantir Foundry
-
-This model is designed to plug into a full decision intelligence platform like **Palantir Foundry**, where we can:
-
-- Ingest real NCAA data
-- Model dynamic travel costs with geospatial tools
-- Visualize optimized schedules in coach dashboards
-- Simulate different scenarios (e.g. early conference start, weather alerts)
-- Once the filters have been finalized produce a tentative schedule that coaches can then use to start making their schedules for the next season.
----
-
 
