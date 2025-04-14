@@ -46,6 +46,3 @@ These inputs are processed by the optimization engine to:
 | Air Force    | 72   | Home     | 18.7        | Fills 7-match requirement    |
 
 > **Total projected points**: 214.3
-
-
-Want to see this with real ITA data? Let’s talk 👇

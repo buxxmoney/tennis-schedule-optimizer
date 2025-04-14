@@ -26,12 +26,6 @@ College tennis coaches face growing challenges when building match schedules:
 
 ---
 
-## 🎥 Project Video
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
-
----
-
 ## 🤝 Looking to Collaborate
 
 I’m currently seeking access to **Palantir Foundry** to build this out using real NCAA match data, ranking logic, and dashboard tooling.
